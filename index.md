@@ -1,6 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to DamonSong's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/damonsong/damonsong.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+```markdown
+这是一个块区域，用来显示一些突出的内容。
+```
+
+可以使用[GitHub提供的编辑器](https://github.com/damonsong/damonsong.github.io/edit/master/index.md) 来维护和预览markdown写的页面内容。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
