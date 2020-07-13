@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  damonsong
 
 # Build settings
-theme: modernist
+#theme: modernist
 #remote_theme: nrandecker/particle
 plugins:
   - jekyll-feed
